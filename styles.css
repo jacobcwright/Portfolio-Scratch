@@ -1,0 +1,8 @@
+#nav:hover {
+    background-color: goldenrod;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 750%;
+    height: 75%
+}
