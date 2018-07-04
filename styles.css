@@ -4,9 +4,9 @@
 
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
     width: 750%;
-    height: 75%
+    height: 75%;
 }
 
-#about{
-    font-size: 18px;
+#banner {
+    color: black;
 }
